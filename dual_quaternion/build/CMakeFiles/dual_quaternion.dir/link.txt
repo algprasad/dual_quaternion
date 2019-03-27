@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdual_quaternion.a  CMakeFiles/dual_quaternion.dir/QuaternionOperations.cpp.o
+/usr/bin/ranlib libdual_quaternion.a

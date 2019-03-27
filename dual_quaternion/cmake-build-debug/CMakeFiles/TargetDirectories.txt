@@ -1,0 +1,3 @@
+/home/socrob/TUB/dual_quaternion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/socrob/TUB/dual_quaternion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/socrob/TUB/dual_quaternion/cmake-build-debug/CMakeFiles/dual_quaternion.dir
